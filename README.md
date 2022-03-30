@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoussaNassour
 - 👀 I’m interested in Web and Mobile applications development and designing.  
-- 🌱 I’m currently learning Flutter,androidMobile, javascript, java 
-- 💞️ I’m looking to collaborate on Projects related to android mobile applications using android studio.
+- 🌱 I’m currently learning HTML,CSS, PHP, Laravel 
+- 💞️ I’m looking to collaborate on Projects related to web  applications.
 - 📫 How to reach me moussanassour1997@gmail.com 
 
 <!---
